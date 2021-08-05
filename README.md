@@ -28,7 +28,7 @@
 
 <p align="center">
   <em>
-    Hello, I am Niklas Hall a <b>final year</b> undergraduate from <a href="https://sde.dk/"> <b>Syddansk Erhvervsskole</b> Odense, Denmark</a>. <br>
+    Hello, I am Niklas Hall a <b>4 year</b> undergraduate from <a href="https://sde.dk/"> <b>Syddansk Erhvervsskole</b> Odense, Denmark</a>. <br>
     <b>a passionate learner</b> <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Developer.gif" width="30px"> and a <b>Web Developmenter</b>&nbsp;<img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Designer.gif" width="36px">&nbsp,<br>who is <b>obsessed</b>
     with <b>Data technician</b> and always looking to find patterns of which are hidden in the data 
   </em> 
