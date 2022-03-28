@@ -7,7 +7,7 @@
 <img src="https://komarev.com/ghpvc/?username=p33N&color=brightgreen" alt="watching_count" />
  </p>
  <p align="center">
-<img src="https://img.shields.io/badge/Age-31-blue" />
+<img src="https://img.shields.io/badge/Age-32-blue" />
   <img src="https://img.shields.io/badge/Focus-Web%20development-brightgreen" />
   <img src="https://img.shields.io/badge/Lives-Denmark-success" />
   <img src="https://img.shields.io/badge/Languages-Danish%20%26%20English-brightgreen" />
